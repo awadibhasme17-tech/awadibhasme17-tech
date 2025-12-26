@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Analytic, Developer and Data Science Enthusiast</h3>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding" width="400">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" alt="Coding" width="400">
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=awadibhasme17-tech&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" /> </p>
